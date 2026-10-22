@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "belajar",
+      "request": "launch",
+      "mainClass": "tesjav.belajar",
+      "projectName": "Algoritma-dan-Pemograman-2026-2027_ffbad83c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "tesjav.Main",
+      "projectName": "Algoritma-dan-Pemograman-2026-2027_ffbad83c"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",

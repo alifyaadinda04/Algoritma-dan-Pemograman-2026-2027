@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-main()
+int main()
 {
     int a = 7;
     int b = 2;
